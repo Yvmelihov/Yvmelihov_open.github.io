@@ -1,0 +1,26 @@
+
+.about-content {
+  text-align: center;
+}
+#mypic {
+  border-radius: 300px;
+}
+img {
+  border-radius: 25px;
+}
+
+#post:nth-child(even) {
+  background-color: silver;
+}
+
+
+
+
+.post-author img,
+.about-author img {
+border-radius: 50%;
+}
+
+
+
+
